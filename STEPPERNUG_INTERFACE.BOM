@@ -1,0 +1,38 @@
+"  Revised: Saturday, July 21, 2012"					
+          Revision: 					
+					
+					
+					
+					
+					
+					
+					
+"Bill Of Materials           July 21,2012      14:37:48"	Page1				
+					
+Item	Quantity	Reference	Part	Notes	Source
+______________________________________________					
+					
+1	7	"C3,C4,C5,C6,C7,C8,C9"	47u	100uf has higher ripple current at the right size	http://www.mouser.com/ProductDetail/Panasonic-Electronic-Components/EEE-FTH101XAP/?qs=CMJjuEs1%252buHjsSv%252brW%2fx79%252blZvyElqDMX0NFQ8%2fOMgs%3d
+2	2	"C13,C41"	2.2uf40v		http://www.mouser.com/ProductDetail/TDK/CGA4J3X5R1H475K/?qs=BC3pCcygHNGsR%2fiyNo3ArL8HlPz4ZigsIhC0EB7Ce6w%3d
+3	26	"C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C37,C38,C39,C40"	2.2uf		963-JMK107BJ225KA-T
+4	1	C42	2.2uf12v		http://www.mouser.com/ProductDetail/TDK/CGA4J3X5R1H475K/?qs=BC3pCcygHNGsR%2fiyNo3ArL8HlPz4ZigsIhC0EB7Ce6w%3d
+5	5	"D2,D3,D4,D5,D6"	1N6264/TO		http://www.mouser.com/ProductDetail/Vishay-Semiconductors/VLMG1300-GS08/?qs=uoVnq4yU%252b9I6MDNw9VsLqT3Ganf3BRngSIdefjLLrDs%3d
+6	2	"J1,J5"	CON2 Screw Terminal		http://www.mouser.com/ProductDetail/TE-Connectivity/1546217-2/?qs=Lxq28tKK6BPyEYVu0THVM00gg0kEZiJ9EWuDCUg%252bbQc%3d
+7	3	"J2,J3,J4"	HEADER 6	No Stuff	
+8	5	"J11,J13,J14,J15,J16"	HEADER 12		http://www.mouser.com/ProductDetail/FCI/68015-212HLF/?qs=QKvFUfBIyQLYEi4aHwYmeLpLfc4lp8t32ELdtTGJtrc%3d
+9	6	"J17,J18,J19,J20,J21,J22"	HEADER 4		http://www.mouser.com/ProductDetail/TE-Connectivity-AMP/280378-1/?qs=NCegfZXRvjgYm9pnHtx9P4RLovukuMYOcJD%2fy6pjfBE%3d
+10	1	J23	JUMPER1		http://www.mouser.com/ProductDetail/FCI/68786-102/?qs=LqRyH8pEnDgzoNFqDrls8hLtwkIzOBaLeqSdY5fdWhY%3d
+11	2	"J24,J25"	HEADER 10		http://www.mouser.com/ProductDetail/FCI/69190-410HLF/?qs=4pnxOGoe3ZK1LN%252bCaWK18smLlGWLbkVABlNXpxrXY2s%3d
+12	2	"J26,J27"	HEADER 2		http://www.mouser.com/ProductDetail/Molex/22-04-1021/?qs=EaMIwIL37xyGB9pelbWTau0j6IV%2f%2fswEc3pCZMR5WkA%3d
+13	1	P1	BD25_PPort		737-DB25-SL-25
+14	6	"R21,R22,R28,R29,R32,R33"	1k		754-RR0816P-102D
+15	5	"R23,R24,R25,R26,R27"	40		754-RR0816Q-390D
+16	2	"R30,R31"	2.5k		754-RR0816P-222D
+17	1	R34	0	Cannot have?.?.	
+18	3	"U1,U2,U3"	SI8460		634-SI8460AA-B-IS1
+19	3	"U4,U5,U6"	LM317/SO	check 100ma limit is not exceeded	863-LM317LDG
+20	1	U7	ARDUINO_UNO_V3	No Stuff	
+21	1	U8	74HCT11		771-HCT11D652
+22	1	U10	ADUM1250	Not avaliable at mouser	ADUM1250ARZ
+23	5	"X1,X2,X3,X4,X5"	VertCardGuide	No Stuff	
+24	20	Jumpers	Lumpers	No Stuff	http://www.mouser.com/ProductDetail/Kobiconn/151-8010-E/?qs=RC2ne4458IJ4ew6Dn75XKwc722mIgzqiAu7D7Hr%2fQUU%3d

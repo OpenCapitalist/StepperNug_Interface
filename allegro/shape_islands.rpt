@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : steppernug_interface.brd                      )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Fri Jul 27 13:17:36 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  Layer = TOP
+	Point on shape: (3819.47 1240.17)  Net: VMOT
+
+  Layer = BOTTOM
+	Point on shape: (2757.68 742.35)  Net: 0

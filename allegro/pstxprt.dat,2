@@ -1,0 +1,940 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Jul-27-2012 at 12:16:29 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STEPPERNUG_INTERFACE';
+ POST_TIME='Mar 14 2011 20:40:40';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C13 'C_SMD_0805_CAP_2.2UF40V':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94680@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94680@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94680@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94708@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94708@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94708@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95804@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95804@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95804@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95868@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95868@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95868@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92656@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92656@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92656@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92672@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92672@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92672@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92688@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92688@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92688@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92704@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92704@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92704@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92720@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92720@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92720@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92736@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92736@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92736@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93572@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93572@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93572@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93596@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93596@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93596@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93612@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93612@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93612@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93628@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93628@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93628@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93644@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93644@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93644@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93664@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93664@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93664@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93736@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93736@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93736@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94212@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94212@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94212@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93752@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93752@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93752@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93768@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93768@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93768@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93784@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93784@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93784@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93800@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93800@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93800@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93816@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93816@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93816@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93972@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93972@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93972@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94004@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94004@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94004@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94020@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94020@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94020@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94036@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94036@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94036@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94232@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94232@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94232@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'C_SMD_0603_CAP_2.2UF':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94060@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94060@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94060@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'C_SMD_0805_CAP_2.2UF40V':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS105240@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins105240@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins105240@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'C_SMD_0805_CAP_2.2UF12V':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS105256@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins105256@analog.\c.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins105256@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94252@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94252@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94252@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94272@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94272@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94272@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94292@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94292@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94292@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94356@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94356@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94356@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_ELECT_0_SMD_ELECTRO6_3MM_CAP_':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94380@STEPPERNUG OSE V1_1.C_ELECT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94380@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94380@\steppernug ose v1_1\.\c_elect_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 '1N6264/TO_0_SMD_0603_LED_1N6264':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95440@STEPPERNUG_INTERFACE.1N6264/TO_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95440@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95440@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 '1N6264/TO_0_SMD_0603_LED_1N6264':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95456@STEPPERNUG_INTERFACE.1N6264/TO_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95456@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95456@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 '1N6264/TO_0_SMD_0603_LED_1N6264':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95472@STEPPERNUG_INTERFACE.1N6264/TO_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95472@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95472@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 '1N6264/TO_0_SMD_0603_LED_1N6264':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95488@STEPPERNUG_INTERFACE.1N6264/TO_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95488@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95488@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 '1N6264/TO_0_SMD_0603_LED_1N6264':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94148@STEPPERNUG_INTERFACE.1N6264/TO_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94148@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94148@steppernug_interface.\1n6264/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'HEADER 12_SIP12_HEADER 12':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96902@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96902@connector.\header 12.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96902@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 12_SIP12_HEADER 12':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92776@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92776@connector.\header 12.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92776@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 12_SIP12_HEADER 12':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS92844@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins92844@connector.\header 12.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins92844@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER 12_SIP12_HEADER 12':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94112@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94112@connector.\header 12.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94112@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'HEADER 12_SIP12_HEADER 12':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94320@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94320@connector.\header 12.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94320@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96158@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96158@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96158@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96196@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96196@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96196@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96216@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96216@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96216@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 6_SIP6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94886@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94886@connector.\header 6.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94886@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96236@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96236@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96236@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96256@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96256@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96256@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'HEADER 4_0_THRU_HEADER_4_HEADER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96284@DESIGN1.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96284@design1.\header 4_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96284@design1.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J23 'JUMPER1_0_JUMPER_JUMPER1':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96730@DESIGN1.JUMPER1_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96730@design1.\jumper1_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96730@design1.\jumper1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J24 'HEADER 10_0_THRU_HEADER_10_HEAD':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96770@DESIGN1.HEADER 10_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96770@design1.\header 10_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96770@design1.\header 10_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'HEADER 10_0_THRU_HEADER_10_HEAD':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96950@DESIGN1.HEADER 10_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96950@design1.\header 10_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96950@design1.\header 10_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J26 'HEADER 2_FANHEADER2PIN_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS112104@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins112104@connector.\header 2.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins112104@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J27 'HEADER 2_FANHEADER2PIN_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS112120@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins112120@connector.\header 2.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins112120@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J28 'HEADER 3_CONN_3PIN_150MIL_HEADE':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS123486@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins123486@connector.\header 3.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins123486@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 6_SIP6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94910@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94910@connector.\header 6.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94910@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 6_SIP6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94952@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94952@connector.\header 6.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94952@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON2_CONN_2PIN_3_5MM_CON2':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95764@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95764@connector.\con2.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95764@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'BD25_PPORT_0_DB25_PPORT_BD25_PP':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93102@STEPPERNUG_INTERFACE.BD25_PPORT_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93102@steppernug_interface.\bd25_pport_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93102@steppernug_interface.\bd25_pport_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N DGS_1_SOT23_FET':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS118120@STEPPERNUG_INTERFACE.MOSFET N DGS_1.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins118120@steppernug_interface.\mosfet n dgs_1.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins118120@steppernug_interface.\mosfet n dgs_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94724@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94724@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94724@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94738@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94738@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94738@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_SMD_0603_RES_40':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95600@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95600@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95600@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_SMD_0603_RES_40':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95620@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95620@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95620@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_SMD_0603_RES_40':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95636@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95636@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95636@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_SMD_0603_RES_40':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95652@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95652@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95652@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_SMD_0603_RES_40':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94172@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94172@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94172@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95884@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95884@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95884@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95902@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95902@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95902@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_SMD_0603_RES_2.5K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94570@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94570@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94570@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_SMD_0603_RES_2.5K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS94598@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins94598@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins94598@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS105272@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins105272@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins105272@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_SMD_0603_RES_1K':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS105286@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins105286@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins105286@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_SMD_0603_RES_0':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS114047@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins114047@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins114047@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_SMD_0603_RES_200':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS118148@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins118148@analog.\r.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins118148@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'SI8460_SOIC16NB_SI8460':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93168@LIBRARY1.SI8460.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93168@library1.\si8460.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93168@library1.\si8460.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'ADUM1250_SOIC8_ADUM1250':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS96464@LIBRARY1.ADUM1250.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins96464@library1.\adum1250.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins96464@library1.\adum1250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'SI8460_SOIC16NB_SI8460':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93212@LIBRARY1.SI8460.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93212@library1.\si8460.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93212@library1.\si8460.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SI8460_SOIC16NB_SI8460':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93370@LIBRARY1.SI8460.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93370@library1.\si8460.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93370@library1.\si8460.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM317/SO_1_SOIC8_LM317/SO':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95102@REPRAP3_3COMPAT.LM317/SO_1.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95102@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95102@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LM317/SO_1_SOIC8_LM317/SO':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95150@REPRAP3_3COMPAT.LM317/SO_1.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95150@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95150@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'LM317/SO_1_SOIC8_LM317/SO':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS105324@REPRAP3_3COMPAT.LM317/SO_1.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins105324@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins105324@reprap3_3compat.\lm317/so_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'ARDUINO_UNO_V3_0_ARDUINO_UNO_V3':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS93876@STEPPERNUG_INTERFACE.ARDUINO_UNO_V3_0.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins93876@steppernug_interface.\arduino_uno_v3_0.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins93876@steppernug_interface.\arduino_uno_v3_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 '74HCT11_SOIC14_74HCT11':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS95820@LIBRARY1.74HCT11.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins95820@library1.\74hct11.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins95820@library1.\74hct11.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'VERTCARDGUIDE_VERTCARDGUIDE_VER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS107244@LIBRARY1.VERTCARDGUIDE.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins107244@library1.\vertcardguide.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins107244@library1.\vertcardguide.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'VERTCARDGUIDE_VERTCARDGUIDE_VER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS107260@LIBRARY1.VERTCARDGUIDE.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins107260@library1.\vertcardguide.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins107260@library1.\vertcardguide.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 'VERTCARDGUIDE_VERTCARDGUIDE_VER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS107276@LIBRARY1.VERTCARDGUIDE.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins107276@library1.\vertcardguide.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins107276@library1.\vertcardguide.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X4 'VERTCARDGUIDE_VERTCARDGUIDE_VER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS107292@LIBRARY1.VERTCARDGUIDE.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins107292@library1.\vertcardguide.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins107292@library1.\vertcardguide.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X5 'VERTCARDGUIDE_VERTCARDGUIDE_VER':;
+
+SECTION_NUMBER 1
+ '@STEPPERNUG_INTERFACE.SCHEMATIC1(SCH_1):INS107308@LIBRARY1.VERTCARDGUIDE.NORMAL(CHIPS)':
+ C_PATH='@steppernug_interface.schematic1(sch_1):ins107308@library1.\vertcardguide.normal\(chips)',
+ P_PATH='@steppernug_interface.schematic1(sch_1):page1_ins107308@library1.\vertcardguide.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

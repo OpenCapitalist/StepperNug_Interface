@@ -1,0 +1,23 @@
+{ Using PSTWRITER 16.3.0 p002Jul-27-2012 at 12:58:03 }
+
+#1 Warning [ALG0047] "No_connect" property on Pin "U3.15" ignored for U3: SCHEMATIC1, PAGE1 (13.50, 5.10). Connecting pin to net "LIMITZ_ISO".
+#2 Warning [ALG0047] "No_connect" property on Pin "J4.1" ignored for J4: SCHEMATIC1, PAGE1 (16.00, 5.10). Connecting pin to net "LIMITZ".
+#3 Warning [ALG0047] "No_connect" property on Pin "U3.2" ignored for U3: SCHEMATIC1, PAGE1 (13.50, 5.10). Connecting pin to net "LIMITZ".
+#4 Warning [ALG0016] Part Name "C_ELECT_0_SMD_ELECTRO6_3MM_CAP_47U" is renamed to "C_ELECT_0_SMD_ELECTRO6_3MM_CAP_".
+#5 Warning [ALG0016] Part Name "1N6264/TO_0_SMD_0603_LED_1N6264/TO" is renamed to "1N6264/TO_0_SMD_0603_LED_1N6264".
+#6 Warning [ALG0016] Part Name "HEADER 4_0_THRU_HEADER_4_HEADER 4" is renamed to "HEADER 4_0_THRU_HEADER_4_HEADER".
+#7 Warning [ALG0016] Part Name "HEADER 10_0_THRU_HEADER_10_HEADER 10" is renamed to "HEADER 10_0_THRU_HEADER_10_HEAD".
+#8 Warning [ALG0016] Part Name "HEADER 3_CONN_3PIN_150MIL_HEADER 3" is renamed to "HEADER 3_CONN_3PIN_150MIL_HEADE".
+#9 Warning [ALG0016] Part Name "BD25_PPORT_0_DB25_PPORT_BD25_PPORT" is renamed to "BD25_PPORT_0_DB25_PPORT_BD25_PP".
+#10 Warning [ALG0016] Part Name "ARDUINO_UNO_V3_0_ARDUINO_UNO_V3_ARDUINO_UNO_V3" is renamed to "ARDUINO_UNO_V3_0_ARDUINO_UNO_V3".
+#11 Warning [ALG0016] Part Name "VERTCARDGUIDE_VERTCARDGUIDE_VERTCARDGUIDE" is renamed to "VERTCARDGUIDE_VERTCARDGUIDE_VER".
+Scanning netlist files ...
+
+Loading... C:\Users\not you\Documents\GitHub\StepperNug_Interface\allegro/pstchip.dat
+
+Loading... C:\Users\not you\Documents\GitHub\StepperNug_Interface\allegro/pstchip.dat
+
+Loading... C:\Users\not you\Documents\GitHub\StepperNug_Interface\allegro/pstxprt.dat
+
+Loading... C:\Users\not you\Documents\GitHub\StepperNug_Interface\allegro/pstxnet.dat
+packaging the design view...

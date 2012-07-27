@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : steppernug_interface.brd                      )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Sun Jul 22 16:04:41 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 150.00
+Min Line Length is 0.00
+Allowing 0 and 90 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 4505.00, 1400.00)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 1530.00, 1400.00)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 2255.00, 1400.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1142.00, 1101.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1262.00, 1561.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1142.00, 1981.00)
+Text string '74HCT11_SOIC14_74HCT11' is not at a suitable location
+(location: 822.50, 1025.00)
+Text string 'LM317/SO_1_SOIC8_LM317/SO' is not at a suitable location
+(location: 4335.00, 2012.50)
+
+Total Failures: 8
+
+Log End
+

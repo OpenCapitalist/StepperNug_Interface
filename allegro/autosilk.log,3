@@ -1,0 +1,110 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : steppernug_interface.brd                      )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Sun Jul 22 16:18:54 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 150.00
+Min Line Length is 0.00
+Allowing 0 and 90 degree text rotations.
+No Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+Text string 'Q1' is not at a suitable location
+(location: 1894.00, 1435.00)
+Text string 'R35' is not at a suitable location
+(location: 2068.00, 1461.00)
+Text string 'R31' is not at a suitable location
+(location: 1344.00, 2193.00)
+Text string 'R30' is not at a suitable location
+(location: 1444.00, 2193.00)
+Text string 'C32' is not at a suitable location
+(location: 1158.00, 796.00)
+Text string 'C33' is not at a suitable location
+(location: 1231.00, 1622.00)
+Text string 'C31' is not at a suitable location
+(location: 1127.00, 2049.00)
+Text string 'C30' is not at a suitable location
+(location: 1157.00, 2324.00)
+Text string 'C29' is not at a suitable location
+(location: 1644.00, 1193.00)
+Text string 'C28' is not at a suitable location
+(location: 2354.00, 1198.00)
+Text string 'C22' is not at a suitable location
+(location: 997.00, 2324.00)
+Text string 'C20' is not at a suitable location
+(location: 814.00, 1123.00)
+Text string 'C19' is not at a suitable location
+(location: 923.00, 796.00)
+Text string 'C18' is not at a suitable location
+(location: 834.00, 1573.00)
+Text string 'C17' is not at a suitable location
+(location: 906.00, 2102.00)
+Text string 'C3' is not at a suitable location
+(location: 1915.00, 1011.34)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 4505.00, 1400.00)
+Text string 'J15' is not at a suitable location
+(location: 1530.00, 1750.00)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 1530.00, 1400.00)
+Text string 'J11' is not at a suitable location
+(location: 2255.00, 1750.00)
+Text string 'HEADER 12_SIP12_HEADER 12' is not at a suitable location
+(location: 2255.00, 1400.00)
+Text string 'J4' is not at a suitable location
+(location: 1172.00, 1005.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1142.00, 1101.00)
+Text string 'J3' is not at a suitable location
+(location: 1292.00, 1465.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1262.00, 1561.00)
+Text string 'J2' is not at a suitable location
+(location: 1172.00, 1885.00)
+Text string 'HEADER 6_SIP6_HEADER 6' is not at a suitable location
+(location: 1142.00, 1981.00)
+Text string 'U8' is not at a suitable location
+(location: 577.50, 1240.00)
+Text string '74HCT11_SOIC14_74HCT11' is not at a suitable location
+(location: 822.50, 1025.00)
+Text string '74HCT11' is not at a suitable location
+(location: 822.50, 945.00)
+Text string 'LM317/SO_1_SOIC8_LM317/SO' is not at a suitable location
+(location: 4335.00, 2012.50)
+Text string 'U10' is not at a suitable location
+(location: 972.50, 2315.00)
+Text string 'ADUM1250_SOIC8_ADUM1250' is not at a suitable location
+(location: 1192.50, 2205.00)
+Text string 'ADUM1250' is not at a suitable location
+(location: 1192.50, 2120.00)
+Text string 'U3' is not at a suitable location
+(location: 881.18, 1000.00)
+Text string 'U2' is not at a suitable location
+(location: 1178.82, 1420.00)
+Text string 'U1' is not at a suitable location
+(location: 1178.82, 1840.00)
+Text string 'P1' is not at a suitable location
+(location: 500.00, 810.00)
+
+Total Failures: 38
+
+Log End
+
